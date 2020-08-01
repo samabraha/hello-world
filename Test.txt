@@ -1,3 +1,8 @@
 A test file added by git on the cl.
 
+<<<<<<< HEAD
 Hello, I forgot to write this line, and here it is. I wrote it.
+=======
+Hello, I forgot to write this line, and here it is. I wrote it.
+And later added this line just to mess with git.
+>>>>>>> test
